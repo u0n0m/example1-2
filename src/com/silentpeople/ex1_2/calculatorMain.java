@@ -125,6 +125,8 @@ public class calculatorMain {
 			
 		}while( yesno );	
 		System.out.println("종료되었습니다.");	
+		System.out.println("종료되었습니다.");	
+		System.out.println("종료되었습니다.");	
 	}	
 	
 	
